@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [wealth-planning-apps/projects/wealth-planning-calculator](https://github.com/john-stromberg/wealth-planning-apps/tree/main/projects/wealth-planning-calculator).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Wealth Planning Calculator
 
 Professional wealth planning and retirement scenario modeling tool for financial advisors.
